@@ -1,0 +1,6 @@
+{
+  "name": "ULTRON-ZERO Cognitive Engine",
+  "description": "Level-4 Autonomous AGI Cognitive Engine featuring SKEW Multi-Window OS Studio, SKEW-DEMON Ambient Background Daemon, Obsidian-Emerald glassmorphism HUD, Tri-Agent Consensus Debate, Dynamic Macro-to-Python Synthesizer, AST Sandboxing, Dual Slide-Out Settings & Diagnostic Drawers.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
